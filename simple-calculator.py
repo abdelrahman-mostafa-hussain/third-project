@@ -27,7 +27,7 @@ def main():
         if arith_Opera == 5:
             print("Thank to use my simple calculator")
             break
-        """while True:
+        while True:
             if arith_Opera == 1:
                 sum=addition(num1,num2)
                 print("the sum of two number you input is",sum)
@@ -50,7 +50,7 @@ def main():
                     break
             else:
                 arith_Opera=int(input("invalid number please enter valid one: "))
-                continue"""
+                continue
         print("let's try another round")
 
 if __name__=="__main__":
